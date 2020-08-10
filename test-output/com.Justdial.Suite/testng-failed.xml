@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [com.Justdial.Suite]" guice-stage="DEVELOPMENT">
+  <test name="com.Justdial.Test(failed)">
+    <classes>
+      <class name="com.justdial.test.JustdialTest">
+        <methods>
+          <include name="extentWrite"/>
+          <include name="afterClass"/>
+          <include name="RattingTest"/>
+          <include name="beforeMethod"/>
+          <include name="LaunchBrowserTest"/>
+          <include name="SelectDataTest"/>
+        </methods>
+      </class> <!-- com.justdial.test.JustdialTest -->
+    </classes>
+  </test> <!-- com.Justdial.Test(failed) -->
+</suite> <!-- Failed suite [com.Justdial.Suite] -->

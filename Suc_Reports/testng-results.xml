@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-05T05:22:46Z" name="Default suite" finished-at="2020-08-05T05:27:23Z" duration-ms="276864">
+    <groups>
+    </groups>
+    <test started-at="2020-08-05T05:22:46Z" name="Default test" finished-at="2020-08-05T05:27:23Z" duration-ms="276864">
+      <class name="com.justdial.test.JustdialTest">
+        <test-method is-config="true" signature="LaunchBrowserTest()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:52:46Z" name="LaunchBrowserTest" finished-at="2020-08-05T10:53:10Z" duration-ms="23171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:10Z" name="beforeMethod" finished-at="2020-08-05T10:53:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="WeblinkTest()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:10Z" name="WeblinkTest" finished-at="2020-08-05T10:53:17Z" duration-ms="6957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WeblinkTest -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="extentWrite" finished-at="2020-08-05T10:53:17Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method signature="CheckTitel()[pri:1, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="CheckTitel" finished-at="2020-08-05T10:53:17Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTitel -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="beforeMethod" finished-at="2020-08-05T10:53:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="extentWrite" finished-at="2020-08-05T10:53:17Z" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="beforeMethod" finished-at="2020-08-05T10:53:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LocationSetTest()[pri:2, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:17Z" name="LocationSetTest" finished-at="2020-08-05T10:53:19Z" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocationSetTest -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:19Z" name="extentWrite" finished-at="2020-08-05T10:53:19Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:19Z" name="beforeMethod" finished-at="2020-08-05T10:53:19Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SearchTest()[pri:3, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:19Z" name="SearchTest" finished-at="2020-08-05T10:53:49Z" duration-ms="29592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:49Z" name="extentWrite" finished-at="2020-08-05T10:53:49Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:49Z" name="beforeMethod" finished-at="2020-08-05T10:53:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RattingTest()[pri:4, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:53:49Z" name="RattingTest" finished-at="2020-08-05T10:54:14Z" duration-ms="25706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RattingTest -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:54:14Z" name="extentWrite" finished-at="2020-08-05T10:54:14Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:54:14Z" name="beforeMethod" finished-at="2020-08-05T10:54:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="SelectDataTest()[pri:5, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:54:14Z" name="SelectDataTest" finished-at="2020-08-05T10:57:20Z" duration-ms="185696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDataTest -->
+        <test-method is-config="true" signature="extentWrite()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:57:20Z" name="extentWrite" finished-at="2020-08-05T10:57:20Z" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentWrite -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.justdial.test.JustdialTest@660e9100]" started-at="2020-08-05T10:57:20Z" name="afterClass" finished-at="2020-08-05T10:57:23Z" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.justdial.test.JustdialTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

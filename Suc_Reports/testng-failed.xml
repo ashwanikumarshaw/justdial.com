@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="FirefoxTest(failed)">
+    <parameter name="baseURL" value="https://www.justdial.com/"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.justdial.test.GridJustdialTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="SelectDataTest"/>
+          <include name="afterClass"/>
+          <include name="RattingTest"/>
+          <include name="extentWrite"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.justdial.test.GridJustdialTest -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,42 @@
+[INFO ] 2020-08-10 00:01:44.380 [main] JustdialTest - Closing the Driver
+[INFO ] 2020-08-10 11:18:44.180 [main] JustdialTest - Browser Invoked
+[INFO ] 2020-08-10 11:18:59.025 [main] JustdialTest - Web-link open
+[INFO ] 2020-08-10 11:18:59.126 [main] JustdialTest - Homepage title 
+[WARN ] 2020-08-10 11:18:59.126 [main] JustdialTest - Program may fail if homepage title does not contain 'Justdial'
+[INFO ] 2020-08-10 11:18:59.773 [main] JustdialTest - Homepage title matched
+[INFO ] 2020-08-10 11:19:25.971 [main] JustdialTest - Location Set
+[INFO ] 2020-08-10 11:19:26.009 [main] JustdialTest - Search Test
+[INFO ] 2020-08-10 11:19:59.033 [main] JustdialTest - Title matched
+[INFO ] 2020-08-10 11:19:59.073 [main] JustdialTest - Rating Test
+[INFO ] 2020-08-10 11:20:28.297 [main] JustdialTest - Rating button clicked
+[INFO ] 2020-08-10 11:24:32.414 [main] JustdialTest - 5 Data Selected 
+[INFO ] 2020-08-10 11:24:32.812 [main] JustdialTest - Closing the Driver
+[INFO ] 2020-08-10 11:43:18.612 [main] JustdialTest - Browser Invoked
+[INFO ] 2020-08-10 11:43:26.213 [main] JustdialTest - Web-link open
+[INFO ] 2020-08-10 11:43:26.376 [main] JustdialTest - Homepage title 
+[WARN ] 2020-08-10 11:43:26.376 [main] JustdialTest - Program may fail if homepage title does not contain 'Justdial'
+[INFO ] 2020-08-10 11:43:26.395 [main] JustdialTest - Homepage title matched
+[INFO ] 2020-08-10 11:43:30.396 [main] JustdialTest - Location Set
+[INFO ] 2020-08-10 11:43:30.420 [main] JustdialTest - Search Test
+[INFO ] 2020-08-10 11:44:00.227 [main] JustdialTest - Title matched
+[INFO ] 2020-08-10 11:44:00.394 [main] JustdialTest - Rating Test
+[INFO ] 2020-08-10 11:44:28.485 [main] JustdialTest - Rating button clicked
+[INFO ] 2020-08-10 11:48:08.453 [main] JustdialTest - 5 Data Selected 
+[INFO ] 2020-08-10 11:48:09.679 [main] JustdialTest - Closing the Driver
+[INFO ] 2020-08-10 12:12:53.256 [main] GridJustdialTest - Homepage title 
+[WARN ] 2020-08-10 12:12:53.318 [main] GridJustdialTest - Program may fail if homepage title does not contain 'Justdial'
+[INFO ] 2020-08-10 12:12:53.349 [main] GridJustdialTest - Homepage title matched
+[INFO ] 2020-08-10 12:12:57.125 [main] GridJustdialTest - Location Set
+[INFO ] 2020-08-10 12:12:57.150 [main] GridJustdialTest - Search Test
+[INFO ] 2020-08-10 12:13:28.240 [main] GridJustdialTest - Title matched
+[INFO ] 2020-08-10 12:13:28.296 [main] GridJustdialTest - Rating Test
+[ERROR] 2020-08-10 12:13:31.384 [main] GridJustdialTest - Rating button NOT clicked
+[INFO ] 2020-08-10 12:18:18.301 [main] GridJustdialTest - Closing the Driver
+[INFO ] 2020-08-10 12:21:12.275 [main] GridJustdialTest - Homepage title 
+[WARN ] 2020-08-10 12:21:12.275 [main] GridJustdialTest - Program may fail if homepage title does not contain 'Justdial'
+[INFO ] 2020-08-10 12:21:12.311 [main] GridJustdialTest - Homepage title matched
+[INFO ] 2020-08-10 12:21:19.055 [main] GridJustdialTest - Location Set
+[INFO ] 2020-08-10 12:21:19.101 [main] GridJustdialTest - Search Test
+[INFO ] 2020-08-10 12:22:07.027 [main] GridJustdialTest - Title matched
+[INFO ] 2020-08-10 12:22:07.112 [main] GridJustdialTest - Rating Test
+[INFO ] 2020-08-10 12:22:14.429 [main] GridJustdialTest - Closing the Driver

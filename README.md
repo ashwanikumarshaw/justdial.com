@@ -4,3 +4,6 @@ I used JAVA Selenium , Maven merged with TestNG and Grid to get 5 names and addr
 https://www.justdial.com/
 
 NOTE: Suc_Reports contain all the success test result
+
+Extent Report : https://ashwanikumarshaw.github.io/justdial.com/Suc_Reports/ExtentReport.html
+https://ashwanikumarshaw.github.io/justdial.com/ExtentReports/report 10-08-20 11-18-13.html

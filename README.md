@@ -6,4 +6,7 @@ https://www.justdial.com/
 NOTE: Suc_Reports contain all the success test result
 
 Extent Report : https://ashwanikumarshaw.github.io/justdial.com/Suc_Reports/ExtentReport.html
-https://ashwanikumarshaw.github.io/justdial.com/ExtentReports/report 10-08-20 11-18-13.html
+
+https://ashwanikumarshaw.github.io/justdial.com/ExtentReports/report%2010-08-20%2011-18-13.html
+
+https://ashwanikumarshaw.github.io/justdial.com/ExtentReports/report%2010-08-20%2011-43-02.html
